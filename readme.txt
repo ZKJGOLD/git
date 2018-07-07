@@ -1,1 +1,2 @@
-you are a pig? yes or no?
+you are a pig?
+yes.
